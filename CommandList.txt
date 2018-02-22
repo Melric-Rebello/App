@@ -9,3 +9,4 @@ git commit
 git push origin master                   -----Push to the master
 git push origin branchname               -----Push changes to branch 
 git merge branchname                     -----Merge branch to origin master
+git branch -a                            -----List all Branches
