@@ -1,1 +1,1 @@
-# App
+1. Branch: StartNodeServer  --- contains index.js and index html to start the node server and run the file. Clone and run "npm start" to start the server and in browser open http://localhost:3000. 
