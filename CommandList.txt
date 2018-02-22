@@ -1,0 +1,11 @@
+git clone repopath                       -----Clones master
+git clone -b <branch> <remote_repo>
+Example:
+git clone -b branchname repopath
+git checkout branchname                  -----To switch between branches
+git add .                                -----Add all changes to stage
+git add filename                         -----Add a specific file
+git commit
+git push origin master                   -----Push to the master
+git push origin branchname               -----Push changes to branch 
+git merge branchname                     -----Merge branch to origin master
